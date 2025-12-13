@@ -1,34 +1,65 @@
 <!-- ===================================================== -->
-<!-- 🕶️ CYBER SECURITY HACKER HEADER -->
+<!-- ⚡ BINARY RAIN BANNER -->
 <!-- ===================================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f172a,100:000000&height=220&section=header&text=Manish%20Devatwal&fontSize=38&fontColor=00ff99&animation=fadeIn&fontAlignY=40" />
-</p>
 
-<!-- ===================================================== -->
-<!-- ⌨️ MATRIX TYPING EFFECT -->
-<!-- ===================================================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1000&color=00ff99&center=true&vCenter=true&width=1000&lines=Cyber+Security+Enthusiast;Ethical+Hacking+Learner;Python+%7C+Networking+%7C+Linux;Securing+Systems+%7C+Breaking+Limits" />
-</p>
+```text
+01010100 01001000 01000101 00100000 01001101 01000001 01010100 01010010 01001001 01011000
+01001001 01010011 00100000 01000001 01010111 01000001 01001011 01000101 01001110 01001001 01001110 01000111
+10101010 01010101 10101010 01010101 10101010
+██████╗ ██╗   ██╗██████╗ ███████╗██████╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗
+██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝
+██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗
+██████╔╝╚██████╔╝██║  ██║███████╗██║  ██║
+╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+$ ssh root@matrix
+root@matrix's password: ********
 
----
+[ OK ] Initializing kernel modules
+[ OK ] Loading cyber frameworks
+[ OK ] Mounting /dev/mind
+[ OK ] Establishing secure channel
 
-## 🕵️ About Me
-
-```bash
-$ whoami
-Manish Devatwal
-
-$ role
-Cyber Security Learner | Ethical Hacking Student
-
-$ education
-BCA Final Year (2023–2026)
-
-$ location
-India
-⚙️ Hacker Toolkit
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Ethical%20Hacking-Learning-00ff99?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cyber%20Security-Student-0ea5e9?style=for-the-badge" /> </p>
-📊 Threat Intelligence (GitHub Stats)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" /> </p>
+Welcome back, Manish.
+Last login: Fri 01:33 AM from 127.0.0.1
+ACCESS LEVEL: ROOT
+███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
+████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
+██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝
+██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗
+██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+[ SYSTEM WARNING ]
+REALITY BREACH DETECTED
+GLITCH LEVEL: ██████████ 100%
+user        : manish_devatwal
+role        : cyber_security_student
+education   : BCA Final Year (2023–2026)
+location    : India
+status      : learning | training | evolving
+╔══════════════════════════════════╗
+║        CTF PERFORMANCE           ║
+╠══════════════╦═══════════════════╣
+║ Challenges   ║ 42                ║
+║ Flags Found  ║ 37                ║
+║ Rank         ║ Top 15%            ║
+║ Skill Level  ║ Beginner → Pro     ║
+╚══════════════╩═══════════════════╝
+✔ Reconnaissance
+✔ Social Engineering Awareness
+✔ Web Vulnerability Basics
+✔ Payload Analysis (Academic)
+✔ Attack Simulation (Ethical)
+✔ System Hardening
+✔ Log Analysis
+✔ Threat Awareness
+✔ Incident Response (Basic)
+✔ Security Best Practices
+✔ System Hardening
+[✔] Linux Terminal
+[✔] Python (Security Scripts)
+[✔] Git & GitHub
+[✔] Networking Fundamentals
+[✔] Web Security Basics
+EMAIL  : manishsunny777@gmail.com
+GITHUB : https://github.com/YOUR_USERNAME
