@@ -1,3 +1,8 @@
+<!-- ☄️ Meteor Shower Top Effect -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
 
 <p align="center">
@@ -91,3 +96,7 @@ flowchart TD
   <br>
   <sub><i>Modern Analyst + DataScience by Piyush Suthar</i></sub>
 </div>
+<!-- ☄️ Meteor Shower Bottom Effect -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
