@@ -1,65 +1,56 @@
-<!-- ===================================================== -->
-<!-- ⚡ BINARY RAIN BANNER -->
-<!-- ===================================================== -->
-
-```text
 01010100 01001000 01000101 00100000 01001101 01000001 01010100 01010010 01001001 01011000
 01001001 01010011 00100000 01000001 01010111 01000001 01001011 01000101 01001110 01001001 01001110 01000111
-10101010 01010101 10101010 01010101 10101010
+
 ██████╗ ██╗   ██╗██████╗ ███████╗██████╗
 ██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗
 ██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝
 ██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗
 ██████╔╝╚██████╔╝██║  ██║███████╗██║  ██║
 ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
 $ ssh root@matrix
 root@matrix's password: ********
+[ OK ] Initializing kernel
+[ OK ] Loading cyber modules
+[ OK ] Establishing secure tunnel
+ACCESS GRANTED → ROOT
 
-[ OK ] Initializing kernel modules
-[ OK ] Loading cyber frameworks
-[ OK ] Mounting /dev/mind
-[ OK ] Establishing secure channel
-
-Welcome back, Manish.
-Last login: Fri 01:33 AM from 127.0.0.1
-ACCESS LEVEL: ROOT
-███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
-████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-[ SYSTEM WARNING ]
-REALITY BREACH DETECTED
-GLITCH LEVEL: ██████████ 100%
 user        : manish_devatwal
+education  : BCA Final Year (2023–2026)
 role        : cyber_security_student
-education   : BCA Final Year (2023–2026)
 location    : India
-status      : learning | training | evolving
-╔══════════════════════════════════╗
-║        CTF PERFORMANCE           ║
-╠══════════════╦═══════════════════╣
-║ Challenges   ║ 42                ║
-║ Flags Found  ║ 37                ║
-║ Rank         ║ Top 15%            ║
-║ Skill Level  ║ Beginner → Pro     ║
-╚══════════════╩═══════════════════╝
-✔ Reconnaissance
-✔ Social Engineering Awareness
-✔ Web Vulnerability Basics
-✔ Payload Analysis (Academic)
-✔ Attack Simulation (Ethical)
-✔ System Hardening
-✔ Log Analysis
-✔ Threat Awareness
-✔ Incident Response (Basic)
-✔ Security Best Practices
-✔ System Hardening
-[✔] Linux Terminal
-[✔] Python (Security Scripts)
-[✔] Git & GitHub
-[✔] Networking Fundamentals
-[✔] Web Security Basics
+
+[ SYSTEM WARNING ]
+REALITY GLITCH DETECTED
+GLITCH LEVEL ██████████ 100%
+
+CTF SCOREBOARD
+Challenges : 42
+Flags      : 37
+Rank       : Top 15%
+
+RED TEAM
+- Reconnaissance
+- Social Engineering
+- Web Security Basics
+
+BLUE TEAM
+- Log Analysis
+- Incident Response
+- System Hardening
+
+TOOLS
+- Linux
+- Python
+- Git
+- Networking
+
 EMAIL  : manishsunny777@gmail.com
 GITHUB : https://github.com/YOUR_USERNAME
+
+This profile is for EDUCATIONAL & ETHICAL purposes only.
+Unauthorized hacking is illegal.
+
+SYSTEM ACCESS LOGGED
+> session terminated
+
