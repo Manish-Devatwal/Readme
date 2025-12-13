@@ -1,6 +1,10 @@
-<!-- ☄️ Meteor Shower Top Effect -->
+<!-- 🌠 Animated Shooting Stars (Top) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/star-shower.svg"
+    width="100%"
+    alt="Animated Shooting Stars"
+  />
 </p>
 
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
@@ -96,7 +100,12 @@ flowchart TD
   <br>
   <sub><i>Modern Analyst + DataScience by Piyush Suthar</i></sub>
 </div>
-<!-- ☄️ Meteor Shower Bottom Effect -->
+<!-- 🌠 Animated Shooting Stars (Bottom) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/star-shower.svg"
+    width="100%"
+    alt="Animated Shooting Stars"
+  />
 </p>
+
