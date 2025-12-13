@@ -1,34 +1,33 @@
-<!-- 🤖 AI + Cyber + Data Fusion | Futuristic GitHub Profile -->
+<!-- 🌌 Cyber + Data Hybrid | Futuristic GitHub Profile -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Manish%20Devatwal&fontColor=7DF9FF&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Manish%20Devatwal&fontColor=00E5FF&fontSize=48&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=26&pause=1200&color=7DF9FF&center=true&vCenter=true&width=1000&lines=AI+%7C+Cyber+Security+%7C+Data+Science;Python+%7C+SQL+%7C+Analytics;Security-First+Intelligence;Designing+Future-Ready+Technology" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=950&lines=Cyber+Security+%2B+Data+Science;Python+%7C+SQL+%7C+Analytics;Security-Aware+Data+Thinker;Building+Future-Ready+Tech+Skills" />
 </p>
 
-<h2 align="center">🚀 AI + Cyber + Data | Fusion Tech Learner</h2>
+<h2 align="center">🚀 Cyber + Data | Modern Tech Learner</h2>
 
 <p align="center">
-  <b>🤖 Intelligent Systems</b> &nbsp;|&nbsp;
-  <b>🛡️ Secure Architectures</b> &nbsp;|&nbsp;
-  <b>📊 Data-Driven Decisions</b>
+  <b>🧠 Analytics Mindset</b> &nbsp;|&nbsp;
+  <b>🛡️ Security Awareness</b> &nbsp;|&nbsp;
+  <b>⚙️ Automation & Logic</b>
 </p>
 
 ---
 
-## 🧠 Fusion Mindset
+## 🧬 My Learning Architecture (Future-Oriented)
 
-```yaml
-Name: Manish Devatwal
-Education: BCA Final Year (2023–2026)
-Location: India
-Focus:
-  - Artificial Intelligence
-  - Cyber Security
-  - Data Science & Analytics
-Philosophy: Secure • Intelligent • Scalable
+```mermaid
+flowchart LR
+    A[Programming Foundations] --> B[Python & Automation]
+    B --> C[SQL & Data Engineering Basics]
+    C --> D[Data Analysis & Visualization]
+    D --> E[Cyber Security Fundamentals]
+    E --> F[Secure & Scalable Projects]
+
 
 
 
