@@ -61,6 +61,20 @@ flowchart TD
   <a href="https://www.linkedin.com/in/manish-devatwal-52a038394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sutharpiyush033@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </div>
+---
+
+## 🐍 Contribution Snake Game
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
+</p>
+
+<p align="center">
+  <sub><i>Watch the snake eat my GitHub contributions 🧠🐍</i></sub>
+</p>
 
 ---
 
