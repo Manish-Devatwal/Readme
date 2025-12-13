@@ -1,56 +1,69 @@
-01010100 01001000 01000101 00100000 01001101 01000001 01010100 01010010 01001001 01011000
-01001001 01010011 00100000 01000001 01010111 01000001 01001011 01000101 01001110 01001001 01001110 01000111
+<!-- 🌌 Futuristic Cyber Profile README -->
 
-██████╗ ██╗   ██╗██████╗ ███████╗██████╗
-██╔══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗
-██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝
-██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗
-██████╔╝╚██████╔╝██║  ██║███████╗██║  ██║
-╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Manish%20Devatwal&fontColor=00E5FF&fontSize=48&animation=fadeIn" />
+</p>
 
-$ ssh root@matrix
-root@matrix's password: ********
-[ OK ] Initializing kernel
-[ OK ] Loading cyber modules
-[ OK ] Establishing secure tunnel
-ACCESS GRANTED → ROOT
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Cyber+Security+Learner;Future+Tech+Explorer;Python+%7C+Linux+%7C+Security;Building+Skills+for+Tomorrow" />
+</p>
 
-user        : manish_devatwal
-education  : BCA Final Year (2023–2026)
-role        : cyber_security_student
-location    : India
+---
 
-[ SYSTEM WARNING ]
-REALITY GLITCH DETECTED
-GLITCH LEVEL ██████████ 100%
+## 🧠 About Me
 
-CTF SCOREBOARD
-Challenges : 42
-Flags      : 37
-Rank       : Top 15%
+🎓 **BCA Final Year Student (2023–2026)**  
+🛡️ Cyber Security & Ethical Hacking Learner  
+💡 Passionate about future technologies and secure systems  
+📍 India  
 
-RED TEAM
-- Reconnaissance
-- Social Engineering
-- Web Security Basics
+---
 
-BLUE TEAM
-- Log Analysis
-- Incident Response
-- System Hardening
+## ⚙️ Tech Stack
 
-TOOLS
-- Linux
-- Python
-- Git
-- Networking
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode&theme=dark" />
+</p>
 
-EMAIL  : manishsunny777@gmail.com
-GITHUB : https://github.com/YOUR_USERNAME
+---
 
-This profile is for EDUCATIONAL & ETHICAL purposes only.
-Unauthorized hacking is illegal.
+## 🚀 Focus Areas
 
-SYSTEM ACCESS LOGGED
-> session terminated
+- Cyber Security Fundamentals  
+- Ethical Hacking (Educational)  
+- Python for Automation  
+- Linux & Networking Basics  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="mailto:manishsunny777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🌠 Vision
+
+> *“Learning today to secure tomorrow’s technology.”*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00E5FF&style=flat" />
+</p>
+
 
